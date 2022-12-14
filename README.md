@@ -12,13 +12,18 @@
 |----Checkout Page
 
 |----css
+|
 |     |--index.css
+|
 |
 |----img(pictures)
 |
+|
 |----checkout.js
 |
+|
 |----CheckoutPage.gif
+|
 |
 |----index.html
 
