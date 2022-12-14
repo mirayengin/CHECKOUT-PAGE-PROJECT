@@ -1,7 +1,7 @@
 # Shopping Page
 
 
-### Check The Live Website ➡️ [Live Website](https://skycooper.github.io/shoppingPage/)
+### Check The Live Website ➡️ [Live Website](https://checkout-page-project-mirayengin.vercel.app/)
 
 ### Animation of the Website
 ![image](./CheckoutPage.gif)
